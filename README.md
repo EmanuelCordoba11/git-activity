@@ -1,2 +1,3 @@
 # git-activity
-My firt github repo
+My first github repo
+hello guys!
